@@ -5,6 +5,7 @@ body{
     margin-bottom: 20px;
     padding: 20px;
     background-color: white;
+    opacity: 0;
 }
 .col{
     background-color: white; 
