@@ -1,9 +1,10 @@
 body{
-    background-color:black;
+    background-color: black;
 }
 .row{
     margin-bottom: 20px;
     padding: 20px;
+    background-color: white;
 }
 .col{
     background-color: white; 
