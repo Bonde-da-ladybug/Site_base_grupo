@@ -6,7 +6,6 @@ body{
     padding: 20px;
     background-color: white;
 }
-
 .col{
     background-color: white; 
 }
@@ -20,5 +19,4 @@ body{
     margin-top:20px;
     border-radius: 15px;
     margin-bottom:20px;
-    opacity: 0;
 }
